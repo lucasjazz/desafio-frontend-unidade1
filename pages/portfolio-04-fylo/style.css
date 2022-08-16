@@ -1,0 +1,41 @@
+.intro {
+    width: 1111px;
+    margin-bottom: 115px;
+    margin-top: 40px;
+}
+
+.projeto-fylo {
+    display: flex;
+    margin-bottom: 65px;
+}
+
+.esquerda--projeto-fylo {
+    margin-right: 125px;
+    min-width: 350px;
+}
+
+.preview--fylo {
+    width: 635px;
+    margin-top: 30px;
+}
+
+.h2--projeto-fylo {
+    margin-top: 48px;
+    margin-bottom: 30px;
+}
+
+.p--projeto-fylo {
+    margin-bottom: 53px;
+}
+
+.infos {
+    margin-bottom: 25px;
+}
+
+.h2--projeto {
+    margin-bottom: 28px;
+}
+
+.p--projeto {
+    margin-bottom: 40px;
+}

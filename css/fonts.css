@@ -1,0 +1,106 @@
+/* FAMILLY */
+
+.public-400 {
+    font-family: 'Public Sans';
+    font-weight: 400;
+}
+
+.ibarra-700 {
+    font-family: 'Ibarra Real Nova';
+    font-weight: 700;
+}
+
+.ibarra-400 {
+    font-family: 'Ibarra Real Nova';
+    font-weight: 400;
+}
+
+.titulo {
+    font-family: 'Ibarra Real Nova';
+    font-weight: 700;
+    font-size: 50px;
+    line-height: 50px;
+    letter-spacing: -0.446429px;
+}
+
+.subtitulo {
+    font-family: 'Ibarra Real Nova';
+    font-weight: 700;
+    font-size: 40px;
+    line-height: 42px;
+
+    letter-spacing: -0.357143px;
+
+    color: #33323D;
+}
+
+.subtitulo-port {
+    font-family: 'Ibarra Real Nova';
+    font-weight: 400;
+    font-size: 32px;
+    line-height: 42px;
+    letter-spacing: -0.285714px;
+    color: #33323D;
+}
+
+.paragrafo {
+    font-family: 'Public Sans';
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 30px;
+    color: #33323D;
+    mix-blend-mode: normal;
+    opacity: 0.8;
+}
+
+/* COLOR */
+
+.branco {
+    color: #FFFFFF;
+}
+
+.verde {
+    color: #5FB4A2;
+}
+
+.cinza {
+    color: #33323D;
+}
+
+/* SIZE */
+
+.size12 {
+    font-size: 12px;
+}
+
+.size14 {
+    font-size: 14px;
+}
+
+.size16 {
+    font-size: 16px;
+}
+
+.size18 {
+    font-size: 18px;
+}
+
+.size20 {
+    font-size: 20px;
+}
+
+.size22 {
+    font-size: 22px;
+}
+
+.size24 {
+    font-size: 24px;
+}
+
+.size40 {
+    font-size: 40px;
+}
+
+.size50 {
+    font-size: 50px;
+}

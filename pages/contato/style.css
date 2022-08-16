@@ -1,0 +1,79 @@
+.entre-em-contato {
+    display: flex;
+    justify-content: space-between;
+    width: 1111px;
+    margin-bottom: 48px;
+}
+
+.entre-em-contato--p {
+    width: 635px;
+    margin-bottom: 54px;
+}
+
+.contato {
+    display: flex;
+    width: 1111px;
+    justify-content: space-between;
+    margin-bottom: 110px;
+}
+
+.social-dark {
+    margin-right: 16px;
+}
+
+.contato--inputs {
+    display: flex;
+    flex-direction: column;
+}
+
+.input {
+    all: unset;
+    box-sizing: border-box;
+
+    width: 635px;
+    height: 48px;
+    padding: 10px;
+    margin-bottom: 25px;
+
+    background-color: rgba(51, 50, 61, 0.1);
+}
+
+.input:focus,
+.input--mensagem:focus {
+    border: 1px solid rgba(51, 50, 61, 0.4);
+}
+
+.input--mensagem {
+    all: unset;
+    box-sizing: border-box;
+    width: 635px;
+    height: 96px;
+    padding: 10px;
+    margin-bottom: 25px;
+
+    background-color: rgba(51, 50, 61, 0.1);
+}
+
+.contato--label {
+    margin-bottom: 10px;
+}
+
+.contato--btn-enviar {
+    all: unset;
+    background-color: #203A4C;
+    color: #FFFFFF;
+    font-size: 12px;
+    font-family: 'Public Sans';
+    text-align: center;
+    width: 200px;
+    height: 48px;
+    cursor: pointer;
+}
+
+.contato--btn-enviar:hover {
+    background-color: #5FB4A2;
+}
+
+.line {
+    margin-bottom: 48px;
+}

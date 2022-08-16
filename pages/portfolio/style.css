@@ -1,0 +1,120 @@
+/* MANAGE */
+.manage {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 1111px;
+    margin-bottom: 80px;
+}
+
+.img--manage {
+    width: 540px;
+    margin-right: 125px;
+}
+
+.h2--manage {
+    margin-bottom: 28px;
+}
+
+.p--manage {
+    margin-bottom: 55px;
+}
+
+.btn--manage {
+    margin-bottom: 103px;
+}
+
+.line-cima--manage {
+    margin-bottom: 103px;
+}
+
+/* BOOKMARK */
+.bookmark {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 1111px;
+    margin-bottom: 80px;
+}
+
+.img--bookmark {
+    width: 540px;
+    margin-left: 125px;
+}
+
+.h2--bookmark {
+    margin-bottom: 28px;
+}
+
+.p--bookmark {
+    margin-bottom: 55px;
+}
+
+.btn--bookmark {
+    margin-bottom: 103px;
+}
+
+.line-cima--bookmark {
+    margin-bottom: 103px;
+}
+
+/* INSURE */
+
+.insure {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 1111px;
+    margin-bottom: 80px;
+}
+
+.img--insure {
+    width: 540px;
+    margin-right: 125px;
+}
+
+.h2--insure {
+    margin-bottom: 28px;
+}
+
+.p--insure {
+    margin-bottom: 55px;
+}
+
+.btn--insure {
+    margin-bottom: 103px;
+}
+
+.line-cima--insure {
+    margin-bottom: 103px;
+}
+
+/* FYLO */
+.fylo {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 1111px;
+    margin-bottom: 0px;
+}
+
+.img--fylo {
+    width: 540px;
+    margin-left: 125px;
+}
+
+.h2--fylo {
+    margin-bottom: 28px;
+}
+
+.p--fylo {
+    margin-bottom: 55px;
+}
+
+.btn--fylo {
+    margin-bottom: 103px;
+}
+
+.line-cima--fylo {
+    margin-bottom: 103px;
+}
